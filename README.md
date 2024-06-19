@@ -29,6 +29,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaycemAmor&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaycemAmor&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaycemAmor&theme=2077" height="180em" />
+  <p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaycemAmor&" alt="MaycemAmor" /></p>
 </div>
 
-<p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaycemAmor&" alt="MaycemAmor" /></p>
+
