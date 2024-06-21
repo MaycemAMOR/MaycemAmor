@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MaycemAMOR](https://github.com/MaycemAMOR?tab=repositories)
 
-- 💬 Ask me about **Spring, Java, Docker, Kubernetes, AWS, Angular, Testing, ....**
+- 💬 Ask me about **Spring, Java, Docker, Kubernetes, GCP, Angular, Testing, ....**
 
 - 📫 How to reach me **Maycem.Amor@gmail.com**
 
